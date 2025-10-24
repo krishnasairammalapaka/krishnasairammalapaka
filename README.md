@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated Data Structures and Algorithms (DSA) enthusiast with a proven track record in optimizing code efficiency and tackling intricate software engineering problems. As the Research Lead at cyberNerds Club, I drive innovation in algorithmic solutions and foster a collaborative environment for knowledge sharing. Proficient in Java, C, and Python, with a strong foundation in applying DSA concepts to real-world scenarios.
+Implemented end-to-end deployment pipelines using Docker, Kubernetes, GitLab CI/CD, and AWS, ensuring scalable, secure, and automated application delivery. Collaborated on full-stack and blockchain-based projects, optimizing infrastructure, container orchestration, and cloud deployments for high availability.
 
 
 ## 🌐 Socials:
